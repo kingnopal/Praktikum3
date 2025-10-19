@@ -1,0 +1,6 @@
+# Folder dan file yang tidak perlu diupload ke GitHub
+__pycache__/
+*.pyc
+.vscode/
+.env
+.DS_Store
