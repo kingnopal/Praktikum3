@@ -1,12 +1,19 @@
 # Praktikum 3: Menentukan Bilangan Terbesar dari Tiga Bilangan
 
-Program ini meminta pengguna untuk memasukkan tiga bilangan, kemudian menentukan bilangan yang paling besar di antara ketiganya.
+Program ini dibuat untuk menentukan bilangan terbesar dari tiga bilangan yang dimasukkan oleh pengguna.
 
-## Cara Menjalankan Program
-1. Jalankan file `latihan3.py`
-2. Masukkan tiga bilangan ketika diminta
-3. Program akan menampilkan bilangan terbesar
+## 📘 Deskripsi Program
+Program meminta pengguna memasukkan tiga bilangan bulat (`a`, `b`, dan `c`).  
+Kemudian program membandingkan ketiganya dan menampilkan bilangan yang paling besar.
 
-## Dibuat oleh
-Noval Afriansyah
+## 🧮 Contoh Penggunaan
+Masukkan bilangan pertama: 12
+Masukkan bilangan kedua: 7
+Masukkan bilangan ketiga: 15
+Bilangan terbesar adalah: 15
+
+## 👨‍💻 Pembuat
+**Nama:** Noval Afriansyah  
+**Kelas / Praktikum:** Praktikum 3 - Dasar Pemrograman Python
+
 
